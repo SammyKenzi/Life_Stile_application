@@ -1,6 +1,8 @@
 生活を効率化する機能を詰め込んだアプリケーション
 
-（出来ればスマホ用で作りたい）
+（出来ればスマホ用で作りたい）→https://qiita.com/BanaoLihua/items/33f05d368f9bbd0bb741
+
+マージまでの流れ→　https://qiita.com/yukiyoshimura/items/7aa4a8f8db493ab97c2b
 
 機能一覧（それぞれは独立したもの
 ・ToDoリスト
